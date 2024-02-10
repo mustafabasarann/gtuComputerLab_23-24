@@ -1,0 +1,9 @@
+cd Desktop
+mkdir CSE107 
+cd CSE107
+mkdir 1.section
+cd 1.section 
+touch lab2.txt
+touch yourID.csv 
+cat lab2.txt 
+rm -rf yourID.csv 
